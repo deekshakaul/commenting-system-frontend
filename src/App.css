@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.login-form{
+  margin-top:25%;
+  border-style: solid;
+  border-radius: 2%;
+  border-width: thick;
+  border-color: gray;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+
+}
+
+.login{
+  color:black;
+}
+
+.commentBy{
+  font-size: 13px;
+}
+.comment-action{
+  font-size: 13px;
+}
+.comment{
+  padding-left: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.comment-list{
+  margin-bottom: 100px;
+  text-align: left
+}
+.footer-style {
+  background: #212529;
+}
+.fixed-header {
+  position: relative;
+  width: 100%;
+  margin-bottom: 50px;
+}
